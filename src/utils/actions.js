@@ -1,0 +1,2 @@
+export const SET_MESSAGES_LIST = 'SET_MESSAGES_LIST';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
